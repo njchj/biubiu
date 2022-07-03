@@ -1,9 +1,3 @@
-//WX公众号【晴园】整理
-//关注微信公众号【晴园】
-//回复【接口】获取更新
-//回复【catvod】获取 猫影视 接口
-
-
 {"zhuyejiekou": [
 {"name":"❤开尔影院","url":"https://appx.uy07.com/api.php/v1.vod"},
 {"name":"📹️展宁秒播","url":"http://mkk.gotka.top/api.php/v1.vod"},
